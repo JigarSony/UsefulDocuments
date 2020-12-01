@@ -1,0 +1,6 @@
+ssh-keygen -t ed25519 -C "email@pmcretail.com"
+cat ~/.ssh/id_ed25519.pub | clip
+-- Now go to gitlab and under settings>SSH Keys simply ctrl+v
+ssh -T git@10.60.1.136
+
+https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15

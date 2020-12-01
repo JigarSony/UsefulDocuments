@@ -1,0 +1,10 @@
+Installation Check
+
+Java - Java -version
+Maven - mvn -version
+Node - node --version/ node -v
+NPM - npm --version
+Install any thing from node
+npm i ,
+npm i --devdependencies
+npm i --save

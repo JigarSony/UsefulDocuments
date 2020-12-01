@@ -1,0 +1,9 @@
+For Testing Purposes:
+
+1. Method Type: 
+2. Request Body(for POST):
+3. Endpoint:
+4. Authorization:
+5. Attach Request file
+6. Attach Response file
+7. Query
